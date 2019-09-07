@@ -1,0 +1,4 @@
+.history/
+dist/www/
+dist/react/
+node_modules/
